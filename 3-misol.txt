@@ -1,0 +1,2 @@
+3. Kvadrat tenglaraa ildizlarini hisoblaydigan tayanch KVADRAT, uning vorisi BIKVADRAT sinflar 
+yaratilsin va ularda tenglama ildizini topadigaa KvildizO polimorf funksiya aniqlansin.
